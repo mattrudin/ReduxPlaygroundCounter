@@ -16,3 +16,4 @@ Playground for Redux
 
 ## 2. Lessons learned
 ### Redux
+[Immutable Updates in React and Redux](https://daveceddia.com/immutable-updates-react-redux/)  
